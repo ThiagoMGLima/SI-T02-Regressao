@@ -8,3 +8,10 @@ T02_enunciado_regres.pdf
 
 # Configuração local do Claude Code
 .claude/settings.local.json
+
+# Datasets (gerados pelo script ou fornecidos; não versionar)
+datasets/
+
+# Notebooks de referência do professor (não versionar)
+Regressor_Valid_Cruzada_CART.ipynb
+Regressor_Valid_Cruzada_MLP.ipynb
