@@ -1,0 +1,10 @@
+# Ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+# Enunciado do professor (material da disciplina; não publicar no repo público)
+T02_enunciado_regres.pdf
+
+# Configuração local do Claude Code
+.claude/settings.local.json
