@@ -1,0 +1,26 @@
+{
+  "n_vitimas": 10000,
+  "tri": {
+    "verde": 2448,
+    "amarelo": 2567,
+    "vermelho": 2561,
+    "preto": 2424
+  },
+  "idade": {
+    "media": 39.9198,
+    "dpa": 23.201564585603318
+  },
+  "ruido": 0.05,
+  "parametros_gerador": {
+    "distrib_tri": {
+      "0": 2500,
+      "1": 2500,
+      "2": 2500,
+      "3": 2500
+    },
+    "media_idade": 40,
+    "desvio_idade": 25,
+    "nivel_ruido": 0.05,
+    "seed": 42
+  }
+}
