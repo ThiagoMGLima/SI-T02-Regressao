@@ -1,0 +1,26 @@
+{
+  "parametros_gerador": {
+    "n_vitimas": 10000,
+    "distrib_tri_antes_do_ruido": {
+      "verde": 2500,
+      "amarelo": 2500,
+      "vermelho": 2500,
+      "preto": 2500
+    },
+    "media_idade": 40,
+    "desvio_idade": 25,
+    "nivel_ruido": 0.05,
+    "semente": 42
+  },
+  "tabela_1": {
+    "vitimas_por_classe": {
+      "verde": 2448,
+      "amarelo": 2567,
+      "vermelho": 2561,
+      "preto": 2424
+    },
+    "idade_media": 39.9198,
+    "dpa_idade": 23.201564585603318,
+    "ruido": 0.05
+  }
+}
