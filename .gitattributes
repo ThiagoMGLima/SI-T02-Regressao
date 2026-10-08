@@ -1,0 +1,5 @@
+# Arquivos de terceiros: versionar byte a byte (o gerador usa CRLF)
+vendor/** -text
+dados/** -text
+# Pacote de entrega: binário, sem conversão de fim de linha (o git tomaria o PDF por texto)
+entrega/** binary

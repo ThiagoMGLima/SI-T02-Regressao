@@ -1,14 +1,19 @@
 [project]
 name = "si-t02-regressao"
 version = "0.1.0"
-requires-python = ">=3.12"
+description = "Tarefa 2 de Sistemas Inteligentes 1: regressão da probabilidade de sobrevivência com CART e RN"
+requires-python = ">=3.14"
 dependencies = [
-    "ipykernel>=7.4.0",
     "joblib>=1.6.0",
-    "jupyter>=1.1.1",
     "matplotlib>=3.11.2",
-    "nbconvert>=7.17.1",
     "numpy>=2.5.3",
     "pandas>=3.0.6",
     "scikit-learn>=1.9.1",
+    "typst>=0.15.0",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
+    "nbconvert>=7.17.1",
 ]
